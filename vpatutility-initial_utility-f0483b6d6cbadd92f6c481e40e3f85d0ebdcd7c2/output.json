@@ -1,0 +1,82 @@
+[
+  {
+    "Defect ID": "DE72875",
+    "Name": "New Reporting Portal: 508-compliance- 1.4.4-Resize :User is not able to view and access \"\"Manage Access Codes\"\" , \"\"Manage Users\"\" and \"\"Manage Admin Users\"\" tabs at 400% zoom.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE72866",
+    "Name": "New Reporting Portal: 508-compliance- 1.4.4-Resize :User is not able to view \"\"Action\"\" column under \"\"Manage Access Codes\"\" tab at 200% zoom.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE72864",
+    "Name": "New Reporting Portal: 508-compliance- 1.4.4- Resize : Save and Cancel buttons are not displayed correctly under \"\"Edit Maximum Users\"\" column under \"\"Manage Access Codes\"\" tab at 200% zoom.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE72863",
+    "Name": "New Reporting Portal: 508-compliance- 1.4.4-Resize : \"\"Pop-ups\"\" information is getting truncated at 200% zoom for \"\"Edit Dashboards for Access Code\"\", \"\"Display Registration URL\"\" and \"\"Show Details\"\" links.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE72829",
+    "Name": "New Reporting Portal: 508-compliance- Text Spacing 1.4.12: User is unable to view \"\"OK\"\" button for 'Show details' pop-up under \"\"Manage Accounts\"\" tab.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE72819",
+    "Name": "New Reporting Portal: 508-compliance- 1.4.4-Resize : User is not able to access two dashboards \"\"DoD MWR Dashboard\"\" and \"\"Mobile-detailed Usage dashboard\"\" at 200% zoom on Integration environment.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE70407",
+    "Name": "New Reporting Portal: 508 Compliance - 4.1.2 (Name, Role, Value): NVDA screen reader is not updating the user about the changes on UI on applying different filters on all tabs.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE70380",
+    "Name": "New Reporting Portal:  508 Compliance - 4.1.2 (Name, Role, Value): NVDA screen reader is not exposing any information on navigating to different pages from Pagination section.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE70274",
+    "Name": "New Reporting Portal:508 Compliance -Focus Visible( 2.4.7):Focus is getting lost on closing any pop-up for New reporting portal.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE68134",
+    "Name": "New Reporting Portal: 508 Compliance -Focus Visible( 2.4.7): Focus is getting lost on pressing \"\"Enter\"\" key on \"\" log in\"\" and \"\"log out\"\" buttons from \"\"New Reporting portal\"\" .",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE68131",
+    "Name": "New Reporting Portal: 508 Compliance -Focus Visible( 2.4.7): Focus is getting lost on launching the \"\"Create New Admin User\"\" Under \"\"Manage Admin User\"\" tab.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE68105",
+    "Name": "New Reporting Portal:508 Compliance -Keyboard( 2.1.1) :User is not able to access Dashboard drag and drop buttons under \"\"Edit Dashboard for access code\"\" Under the \"\"Manage Access Code\"\" Tab.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE68099",
+    "Name": "New Reporting Portal:508 Compliance - Labels or Instructions( 3.3.2): Account name Instructions are not read for \"\"Actions\"\" section under \"\"Manage Account\"\" tab.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE68096",
+    "Name": "New Reporting Portal:508 Compliance - Labels or Instructions( 3.3.2): Instructions are not read properly for Page navigating sections on screen reader under \"\"Manage Accounts\"\".",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE68066",
+    "Name": "New Reporting Portal:508 Compliance - Labels or Instructions( 3.3.2): Instructions are not read properly on screen reader for \"\"Update Profile\"\" and  \"\"Change password\"\" drop down under \"\"My Profile\"\" tab.",
+    "Is Exception": "No"
+  },
+  {
+    "Defect ID": "DE72739",
+    "Name": "New Reporting Portal: 508 Compliance -Keyboard (2.1.1): \"Edit dashboards associated with this access code\" link is not clickable using keyboard (pressing Enter key) only on Firefox browser.",
+    "Is Exception": "No"
+  }
+]

@@ -1,0 +1,113 @@
+Introduction: 
+
+The following VPAT (Voluntary Product Accessibility Template) report provides an assessment of the accessibility status of the "Accessibility Testing Defects" project. The report includes information on the supported status of WCAG 2.1 checkpoints and highlights any identified defects and their corresponding remarks.
+
+Version: 1.0
+
+Contact Information: 
+- Name: [Your Name]
+- Email: [Your Email]
+- Phone: [Your Phone Number]
+
+Recommendations: 
+Based on the assessment, the following recommendations are provided to improve the accessibility of the project:
+- Implement alt text for all images to ensure screen reader accessibility.
+- Include appropriate headers for data tables to provide context for screen reader users.
+- Add ARIA roles to key interactive elements to ensure accurate interpretation by screen readers.
+- Ensure visible focus indicators for interactive elements to enhance keyboard navigation.
+- Make the website responsive for improved accessibility on mobile devices.
+- Include a "skip to content" link at the beginning of the page to facilitate navigation for keyboard and screen reader users.
+- Provide captions or transcripts for videos to make them accessible to individuals with hearing impairments.
+- Use descriptive link text to provide clarity on the destination of the links.
+- Include form labels for all form fields to assist screen reader users in understanding their purpose.
+- Improve keyboard navigation by ensuring that all interactive elements are accessible via keyboard input.
+- Enhance color contrast in the navigation menu for better readability by users with vision impairments.
+
+Supported Status and Remarks:
+
+| WCAG 2.1 Checkpoint            | Supported Status         | Remarks                                        |
+|-------------------------------|--------------------------|------------------------------------------------|
+| 1.1.1 Non-text Content        | Supported                |                                                |
+| 1.2.1 Audio-only and Video-only (Prerecorded)        | Supported                |                                                |
+| 1.2.2 Captions (Prerecorded)        | Supported                |                                                |
+| 1.2.3 Audio Description or Media Alternative (Prerecorded)        | Supported                |                                                |
+| 1.2.4 Captions (Live)        | Supported                |                                                |
+| 1.2.5 Audio Description (Prerecorded)        | Supported                |                                                |
+| 1.2.6 Sign Language (Prerecorded)        | Supported                |                                                |
+| 1.2.7 Extended Audio Description (Prerecorded)        | Supported                |                                                |
+| 1.2.8 Media Alternative (Prerecorded)        | Supported                |                                                |
+| 1.2.9 Audio-only (Live)        | Supported                |                                                |
+| 1.3.1 Info and Relationships        | Partially Supported                | Data tables without headers            |
+| 1.3.2 Meaningful Sequence        | Supported                |                                                |
+| 1.3.3 Sensory Characteristics        | Supported                |                                                |
+| 1.3.4 Orientation        | Supported                |                                                |
+| 1.3.5 Identify Input Purpose        | Supported                |                                                |
+| 1.3.6 Identify Purpose        | Supported                |                                                |
+| 1.4.1 Use of Color        | Supported                |                                                |
+| 1.4.2 Audio Control        | Supported                |                                                |
+| 1.4.3 Contrast (Minimum)        | Partially Supported                | Inadequate color contrast in navigation menu            |
+| 1.4.4 Resize text        | Supported                |                                                |
+| 1.4.5 Images of Text        | Supported                |                                                |
+| 1.4.6 Contrast (Enhanced)        | Supported                |                                                |
+| 1.4.7 Low or No Background Audio        | Supported                |                                                |
+| 1.4.8 Visual Presentation        | Supported                |                                                |
+| 1.4.9 Images of Text (No Exception)        | Supported                |                                                |
+| 1.4.10 Reflow        | Supported                |                                                |
+| 1.4.11 Non-text Contrast        | Supported                |                                                |
+| 1.4.12 Text Spacing        | Supported                |                                                |
+| 1.4.13 Content on Hover or Focus        | Supported                |                                                |
+| 2.1.1 Keyboard        | Partially Supported                | Keyboard navigation failure            |
+| 2.1.2 No Keyboard Trap        | Supported                |                                                |
+| 2.1.3 Keyboard (No Exception)        | Supported                |                                                |
+| 2.1.4 Character Key Shortcuts        | Supported                |                                                |
+| 2.2.1 Timing Adjustable        | Supported                |                                                |
+| 2.2.2 Pause, Stop, Hide        | Supported                |                                                |
+| 2.2.3 No Timing        | Supported                |                                                |
+| 2.2.4 Interruptions        | Supported                |                                                |
+| 2.2.5 Re-authenticating        | Supported                |                                                |
+| 2.2.6 Timeouts        | Supported                |                                                |
+| 2.3.1 Three Flashes or Below Threshold        | Supported                |                                                |
+| 2.3.2 Three Flashes        | Supported                |                                                |
+| 2.3.3 Animation from Interactions        | Supported                |                                                |
+| 2.4.1 Bypass Blocks        | Partially Supported                | Missing skip navigation link            |
+| 2.4.2 Page Titled        | Supported                |                                                |
+| 2.4.3 Focus Order        | Supported                |                                                |
+| 2.4.4 Link Purpose (In Context)        | Partially Supported                | Non-descriptive links            |
+| 2.4.5 Multiple Ways        | Supported                |                                                |
+| 2.4.6 Headings and Labels        | Supported                |                                                |
+| 2.4.7 Focus Visible        | Supported                |                                                |
+| 2.4.8 Location        | Supported                |                                                |
+| 2.4.9 Link Purpose (Link Only)        | Supported                |                                                |
+| 2.4.10 Section Headings        | Supported                |                                                |
+| 2.5.1 Pointer Gestures        | Supported                |                                                |
+| 2.5.2 Pointer Cancellation        | Supported                |                                                |
+| 2.5.3 Label in Name        | Supported                |                                                |
+| 2.5.4 Motion Actuation        | Supported                |                                                |
+| 2.5.5 Target Size        | Supported                |                                                |
+| 2.5.6 Concurrent Input Mechanisms        | Supported                |                                                |
+| 3.1.1 Language of Page        | Supported                |                                                |
+| 3.1.2 Language of Parts        | Supported                |                                                |
+| 3.1.3 Unusual Words        | Supported                |                                                |
+| 3.1.4 Abbreviations        | Supported                |                                                |
+| 3.1.5 Reading Level        | Supported                |                                                |
+| 3.1.6 Pronunciation        | Supported                |                                                |
+| 3.2.1 On Focus        | Supported                |                                                |
+| 3.2.2 On Input        | Supported                |                                                |
+| 3.2.3 Consistent Navigation        | Supported                |                                                |
+| 3.2.4 Consistent Identification        | Supported                |                                                |
+| 3.2.5 Change on Request        | Supported                |                                                |
+| 3.3.1 Error Identification        | Supported                |                                                |
+| 3.3.2 Labels or Instructions        | Supported                |                                                |
+| 3.3.3 Error Suggestion        | Supported                |                                                |
+| 3.3.4 Error Prevention (Legal, Financial, Data)        | Supported                |                                                |
+| 3.3.5 Help        | Supported                |                                                |
+| 3.3.6 Error Prevention (All)        | Supported                |                                                |
+| 4.1.1 Parsing        | Partially Supported                | Lack of ARIA roles            |
+| 4.1.2 Name, Role, Value        | Supported                |                                                |
+| 4.1.3 Status Messages        | Does Not Support                | Unannounced page changes            |
+
+Conclusion: 
+The "Accessibility Testing Defects" project has made significant progress towards meeting WCAG 2.1 accessibility guidelines. However, there are several areas that require improvement, particularly related to data tables, keyboard navigation, color contrast, link descriptions, form labels, and ARIA roles. Addressing these issues will enhance the overall accessibility of the project.
+
+Legal Disclaimer: 
+The information provided in this VPAT report is based on a comprehensive accessibility assessment conducted on the "Accessibility Testing Defects" project. While all efforts have been made to ensure the accuracy of the information, there may be limitations or unforeseen issues that were not identified during the assessment.

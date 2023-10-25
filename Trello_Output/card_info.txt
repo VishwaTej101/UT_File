@@ -1,0 +1,15 @@
+Card Name: 1.1.1 Non-text Content
+Description: Checkpoint 1.1.1 Non-text Content: Images on the homepage are missing alt text, making them inaccessible to screen readers.
+
+Card Name: 1.2.2 Captions (Prerecorded)
+Description: 1\.2.2 Captions (Prerecorded)
+Videos in the knowledge base do not have captions, preventing users with hearing impairments from accessing the content.
+
+Card Name: Checkpoint: 2.1.1 Keyboard
+Description: Checkpoint: 2.1.1 Keyboard
+
+Users cannot navigate through the web application using only the keyboard; certain interactive elements are not accessible via keyboard input.
+
+Card Name: Checkpoint: 4.1.7 Audio Description (Extended)
+Description: Checkpoint: 4.1.7 Audio Description (Extended)
+Defect: Prerecorded audio content lacks extended audio descriptions, excluding users with vision impairments.

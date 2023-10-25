@@ -1,0 +1,78 @@
+VPAT Report:
+
+Application: New Reporting Portal
+
+Version: 1.0
+
+Date: January 1, 2023
+
+Summary:
+
+The New Reporting Portal has been evaluated for Section 508 compliance. The following defects have been identified during the evaluation:
+
+Defect ID: DE72863
+Name: "Pop-ups" information is getting truncated at 200% zoom for "Edit Dashboards for Access Code", "Display Registration URL" and "Show Details" links.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 1.4.4 (Resize Text) as the pop-up information is not visible at higher zoom levels.
+
+Defect ID: DE72829
+Name: User is unable to view "OK" button for 'Show details' pop-up under "Manage Accounts" tab.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 1.4.12 (Text Spacing) as the button is not visible for users.
+
+Defect ID: DE72819
+Name: User is not able to access two dashboards "DoD MWR Dashboard" and "Mobile-detailed Usage dashboard" at 200% zoom on Integration environment.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 1.4.4 (Resize Text) as the dashboards are not accessible at higher zoom levels.
+
+Defect ID: DE70407
+Name: NVDA screen reader is not updating the user about the changes on UI on applying different filters on all tabs.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 4.1.2 (Name, Role, Value) as the screen reader does not provide proper updates to the user.
+
+Defect ID: DE70380
+Name: NVDA screen reader is not exposing any information on navigating to different pages from Pagination section.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 4.1.2 (Name, Role, Value) as the screen reader does not provide necessary information for navigation.
+
+Defect ID: DE70274
+Name: Focus is getting lost on closing any pop-up for New reporting portal.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 2.4.7 (Focus Visible) as the focus is not maintained when closing pop-ups.
+
+Defect ID: DE68134
+Name: Focus is getting lost on pressing "Enter" key on "log in" and "log out" buttons from "New Reporting portal".
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 2.4.7 (Focus Visible) as the focus is not maintained when interacting with log in and log out buttons.
+
+Defect ID: DE68131
+Name: Focus is getting lost on launching the "Create New Admin User" Under "Manage Admin User" tab.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 2.4.7 (Focus Visible) as the focus is not maintained when launching the create new admin user functionality.
+
+Defect ID: DE68105
+Name: User is not able to access Dashboard drag and drop buttons under "Edit Dashboard for access code" Under the "Manage Access Code" Tab.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 2.1.1 (Keyboard) as the dashboard drag and drop buttons cannot be accessed using the keyboard.
+
+Defect ID: DE68099
+Name: Account name Instructions are not read for "Actions" section under "Manage Account" tab.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 3.3.2 (Labels or Instructions) as the instructions for the account name actions are not read by assistive technology.
+
+Defect ID: DE68096
+Name: Instructions are not read properly for Page navigating sections on screen reader under "Manage Accounts".
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 3.3.2 (Labels or Instructions) as the instructions for page navigation are not properly read by screen readers.
+
+Defect ID: DE68066
+Name: Instructions are not read properly on screen reader for "Update Profile" and "Change password" drop down under "My Profile" tab.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 3.3.2 (Labels or Instructions) as the instructions for updating profile and changing password are not properly read by screen readers.
+
+Defect ID: DE72739
+Name: "Edit dashboards associated with this access code" link is not clickable using keyboard (pressing Enter key) only on Firefox browser.
+Supported Status: Not supported
+Remarks: This defect violates the WCAG 2.2 checkpoint 2.1.1 (Keyboard) as the link is not accessible using the keyboard in Firefox browser.
+
+Please note that the above defects are not supported and do not comply with the Section 508 accessibility standards. It is recommended to address these defects in order to achieve full compliance with Section 508.

@@ -1,0 +1,20 @@
+Description: Checkpoint 1.1.1 Non-text Content: Images on the homepage are missing alt text, making them inaccessible to screen readers.
+Priority: Highest
+
+Description: 1.2.2 Captions (Prerecorded) Videos in the knowledge base do not have captions, preventing users with hearing impairments from accessing the content.
+Priority: Medium
+
+Description: Checkpoint: 2.1.1 Keyboard Users cannot navigate through the web application using only the keyboard; certain interactive elements are not accessible via keyboard input.
+Priority: Low
+
+Description: Checkpoint: 4.1.7 Audio Description (Extended) Prerecorded audio content lacks extended audio descriptions, excluding users with vision impairments.
+Priority: Medium
+
+Description: Checkpoint: 3.2.5 Change on Request Changes to content or settings occur without user request, disrupting user tasks.
+Priority: Highest
+
+Description: Checkpoint: 2.5.3 Label in Name Some interactive elements do not include their label text within their accessible name, affecting screen reader users
+Priority: Highest
+
+Description: Checkpoint: 4.1.6 Audio Description (Prerecorded) Prerecorded audio content lacks audio descriptions, excluding users with vision impairments.
+Priority: Medium

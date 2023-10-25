@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<defects>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-43</DefectID>
+    <Description>Checkpoint: 3.3.1 Error Identification: Error messages are not associated with form fields, making it difficult for users to identify and correct input errors.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-42</DefectID>
+    <Description>Checkpoint: 3.2.2 On Input: Form fields do not provide proper feedback to users when they make input errors, leading to confusion.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-41</DefectID>
+    <Description>Checkpoint: 2.4.7 Focus Visible: Focus indicators are missing or not clearly visible, affecting keyboard users' ability to navigate the interface.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-32</DefectID>
+    <Description>Checkpoint: 4.1.4 Resize text (Prerecorded) Defect: Users cannot resize text in prerecorded audio and video content, impacting accessibility.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-31</DefectID>
+    <Description>Checkpoint: 1.4.6 Contrast (Enhanced) Defect: Enhanced color contrast is needed to meet accessibility standards, particularly for users with low vision.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-30</DefectID>
+    <Description>Checkpoint: 2.2.3 No Timing Defect: Content relies on time-based interactions, excluding users who require extended time for tasks.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-16</DefectID>
+    <Description>Checkpoint: 4.1.6 Audio Description (Prerecorded) Defect: Prerecorded audio content lacks audio descriptions, excluding users with vision impairments.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Highest</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-2</DefectID>
+    <Description>Checkpoint: 3.1.1 Language of Page Defect: The language of the web page is not programmatically identified, affecting screen reader pronunciation and translation.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-52</DefectID>
+    <Description>Checkpoint: 2.4.2 Page Titled: The title displayed on two pages is incorrect</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-40</DefectID>
+    <Description>Checkpoint: 2.4.3 Focus Order:: The focus order of interactive elements does not follow a logical sequence, causing navigation difficulties for keyboard users.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-39</DefectID>
+    <Description>Checkpoint: 1.4.4 Resize Text: Users are unable to resize text without loss of content or functionality, impacting accessibility for those with visual impairments.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-38</DefectID>
+    <Description>Checkpoint: 2.4.6 Headings and Labels: Headings and labels are missing in several forms, making it challenging for users to understand the form's pu</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-25</DefectID>
+    <Description>Checkpoint: 4.1.5 Images of Text (Prerecorded) Defect: Images of text are used in prerecorded audio and video content, excluding screen reader users.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-24</DefectID>
+    <Description>Checkpoint: 1.4.7 Low or No Background Audio (Prerecorded) Defect: Prerecorded audio content has distracting background sounds, affecting the comprehension of audio content.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-23</DefectID>
+    <Description>Checkpoint: 2.2.4 Interruptions Defect: Auto-playing content interrupts users' tasks without warning, impacting user experience.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-22</DefectID>
+    <Description>Checkpoint: 2.5.2 Pointer Cancellation Defect: The web application lacks a mechanism to cancel or undo pointer actions, causing usability issues.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-19</DefectID>
+    <Description>Checkpoint: 3.2.4 Consistent Identification Defect: Interactive elements are not consistently identified across pages, causing confusion.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>High</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-15</DefectID>
+    <Description>Checkpoint: 1.4.8 Visual Presentation Defect: Content relies on a specific visual presentation, excluding users who require alternative formats.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-48</DefectID>
+    <Description>Checkpoint: 3.1.2 Language of Parts: The language of specific page elements is not programmatically identified, hindering screen reader pronunciation.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-47</DefectID>
+    <Description>Checkpoint: 2.4.2 Page Titled: Some pages lack descriptive and meaningful titles, causing confusion during navigation.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-46</DefectID>
+    <Description>Checkpoint: 2.2.1 Timing Adjustable: Users cannot control or disable automatically refreshing content, affecting those who need more time to read</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-45</DefectID>
+    <Description>Checkpoint: 1.2.5 Audio Description (Prerecorded): Videos lack audio descriptions, preventing users with vision impairments from understanding visual content.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-44</DefectID>
+    <Description>Checkpoint: 1.4.1 Use of Color: Critical information is conveyed through color alone, excluding users with color blindness.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-37</DefectID>
+    <Description>Checkpoint: 4.1.3 Status Messages Unannounced page changes are causing confusion for scree</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-36</DefectID>
+    <Description>Checkpoint: 4.1.3 Status Messages Unannounced page changes are causing confusion for screen reader users.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-35</DefectID>
+    <Description>Key interactive elements are missing ARIA roles, causing screen readers to interpret them incorrectly.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-34</DefectID>
+    <Description>Checkpoint: 3.1.1 Language of Page Defect: The language of the web page is not programmatically identified, affecting screen reader pronunciation and translation.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-33</DefectID>
+    <Description>Checkpoint: 3.3.2 Labels or Instructions Defect: Form fields lack associated labels or instructions, making it challenging for users to provide correct input.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-21</DefectID>
+    <Description>Some links in the documentation are not descriptive, making it unclear where they lead.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-20</DefectID>
+    <Description>There is no "skip to content" link at the beginning of the page, causing keyboard and screen reader users to navigate through repetitive elements.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-14</DefectID>
+    <Description>Checkpoint: 2.2.5 Re-authenticating Defect: Re-authentication mechanisms do not preserve user input, causing data loss.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-13</DefectID>
+    <Description>Checkpoint: 2.5.3 Label in Name Defect: Some interactive elements do not include their label text within their accessible name, affecting screen reader users</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-12</DefectID>
+    <Description>Checkpoint: 3.2.5 Change on Request Defect: Changes to content or settings occur without user request, disrupting user tasks.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-9</DefectID>
+    <Description>2.4.1 Bypass Blocks There is no "skip to content" link at the beginning of the page, causing keyboard and screen reader users to navigate through repetitive elements.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-8</DefectID>
+    <Description>Checkpoint: 4.1.7 Audio Description (Extended) Defect: Prerecorded audio content lacks extended audio descriptions, excluding users with vision impairments.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-7</DefectID>
+    <Description>Checkpoint: 2.1.1 Keyboard Users cannot navigate through the web application using only the keyboard; certain interactive elements are not accessible via keyboard input.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-6</DefectID>
+    <Description>Checkpoint: 1.4.9 Images of Text (No Exception) Defect: Images of text are used without an accessible alternative, making it impossible for screen readers to interpret.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-5</DefectID>
+    <Description>Checkpoint: 1.3.1 Info and Relationships Data tables do not have appropriate headers, making it difficult for screen reader users to understand the data's context.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-4</DefectID>
+    <Description>1.2.2 Captions (Prerecorded) Videos in the knowledge base do not have captions, preventing users with hearing impairments from accessing the content.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Medium</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-3</DefectID>
+    <Description>Checkpoint 1.1.1 Non-text Content: Images on the homepage are missing alt text, making them inaccessible to screen readers.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Low</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-51</DefectID>
+    <Description>Checkpoint: 2.2.1 Timing Adjustable: Users cannot control or disable automatically refreshing content, affecting those who need more time to read</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Low</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-28</DefectID>
+    <Description>Checkpoint: 3.2.1 On Focus Defect: Focus styles are missing for interactive elements, affecting keyboard navigation.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Low</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-27</DefectID>
+    <Description>Checkpoint: 3.3.3 Error Suggestion Defect: Input error messages lack suggestions for correction, causing user frustration.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Low</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-26</DefectID>
+    <Description>Checkpoint: 3.3.4 Error Prevention (Legal, Financial, Data) Defect: The web application lacks mechanisms to prevent or warn users of legal, financial, or data-related errors.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Low</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-17</DefectID>
+    <Description>Checkpoint: 3.3.6 Error Prevention (All) Defect: The web application does not provide sufficient error prevention mechanisms, leading to user frustration.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Low</Priority>
+    <Status>In Progress</Status>
+    <DefectID>ATDP2-1</DefectID>
+    <Description>Checkpoint: 2.4.5 Multiple Ways Defect: Some content can only be accessed through mouse actions, excluding keyboard-only users.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Lowest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-50</DefectID>
+    <Description>Checkpoint: 4.1.2 Name, Role, Value: Form fields and interactive elements do not have programmatically determined names or roles, affecting assistive technology.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Lowest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-49</DefectID>
+    <Description>Checkpoint: 3.2.3 Consistent Navigation: Navigation menus and buttons do not maintain a consistent structure across pages, leading to user disorientation.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Lowest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-29</DefectID>
+    <Description>Checkpoint: 2.5.1 Pointer Gestures Defect: Certain interactions require precise pointer gestures, making it inaccessible for users with motor disabilities.</Description>
+    <Summary/>
+  </defect>
+  <defect>
+    <ProjectName>Accessibility Testing Defects Part 2</ProjectName>
+    <Priority>Lowest</Priority>
+    <Status>To Do</Status>
+    <DefectID>ATDP2-18</DefectID>
+    <Description>Checkpoint: 3.3.5 Help Defect: Context-sensitive help or tooltips are missing, making it challenging for users to understand complex interactions.</Description>
+    <Summary/>
+  </defect>
+</defects>

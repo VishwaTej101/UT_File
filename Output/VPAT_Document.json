@@ -1,0 +1,20 @@
+{
+  "VPATContent": "VPAT Document:\n\nProduct Name: New Reporting Portal\nVersion: 1.4.4\nDate: [Date]\n\n1. Defect ID: DE72875\n   Name: User is not able to view and access \"Manage Access Codes\", \"Manage Users\", and \"Manage Admin Users\" tabs at 400% zoom.\n   Is Exception: No\n   Supported Status: Not Supported\n   Remarks: The \"Manage Access Codes\", \"Manage Users\", and \"Manage Admin Users\" tabs are not accessible and viewable at 400% zoom. This issue does not comply with 508 accessibility guidelines.\n\n2. Defect ID: DE72866\n   Name: User is not able to view \"Action\" column under \"Manage Access Codes\" tab at 200% zoom.\n   Is Exception: No\n   Supported Status: Not Supported\n   Remarks: The \"Action\" column is not visible under the \"Manage Access Codes\" tab at 200% zoom. This issue does not comply with 508 accessibility guidelines.\n\n3. Defect ID: DE72864\n   Name: Save and Cancel buttons are not displayed correctly under \"Edit Maximum Users\" column under \"Manage Access Codes\" tab at 200% zoom.\n   Is Exception: No\n   Supported Status: Not Supported\n   Remarks: The Save and Cancel buttons are not correctly displayed under the \"Edit Maximum Users\" column in the \"Manage Access Codes\" tab at 200% zoom. This issue does not comply with 508 accessibility guidelines.\n\nPlease note that these defects do not meet the 508 accessibility compliance requirements and are marked as \"Not Supported\" in the VPAT report.",
+  "Defects": [
+    {
+      "Defect ID": "DE72875",
+      "Name": "New Reporting Portal: 508-compliance- 1.4.4-Resize :User is not able to view and access \"\"Manage Access Codes\"\" , \"\"Manage Users\"\" and \"\"Manage Admin Users\"\" tabs at 400% zoom.",
+      "Is Exception": "No"
+    },
+    {
+      "Defect ID": "DE72866",
+      "Name": "New Reporting Portal: 508-compliance- 1.4.4-Resize :User is not able to view \"\"Action\"\" column under \"\"Manage Access Codes\"\" tab at 200% zoom.",
+      "Is Exception": "No"
+    },
+    {
+      "Defect ID": "DE72864",
+      "Name": "New Reporting Portal: 508-compliance- 1.4.4- Resize : Save and Cancel buttons are not displayed correctly under \"\"Edit Maximum Users\"\" column under \"\"Manage Access Codes\"\" tab at 200% zoom.",
+      "Is Exception": "No"
+    }
+  ]
+}
